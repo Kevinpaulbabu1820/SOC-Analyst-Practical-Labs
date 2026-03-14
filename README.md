@@ -1,8 +1,4 @@
-Your content is already good 👍 — we just need to make it **more structured, concise, and keyword-optimized** so **cybersecurity recruiters scanning GitHub** quickly understand your skills.
 
-Here is a **more recruiter-friendly version** you can paste into your **README.md**.
-
----
 
 # SOC Analyst Practice Labs
 
